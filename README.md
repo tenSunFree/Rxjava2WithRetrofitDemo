@@ -6,11 +6,8 @@
 
 取材自以下資源
 --------
-DataBinding系列（四）：DataBinding进阶之路                                 
-https://www.jianshu.com/p/d429174b8d07
-
-食在方便 - 找美食餐廳                                                                  
-https://play.google.com/store/apps/details?id=com.orangefish.app.delicacy
+RxJAVA 2.x WITH RETROFIT FOR ANDROID                                 
+https://www.youtube.com/watch?v=1SA8AcaxFI8
                           
 預覽
 --------
